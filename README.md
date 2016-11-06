@@ -1,4 +1,4 @@
 ### vanilla
 - first commit
 - test branch
-- test conflict1
+- test conflict2
